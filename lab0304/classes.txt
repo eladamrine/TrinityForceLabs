@@ -1,0 +1,38 @@
+Classes
+
+Customer 
+Knows: Name, age, licence no, rental period in days, if insurance, and email.
+Knows: CC info					CC INFO
+
+
+Staff
+Views customer BOOKINGS				BOOKINGS
+Login		
+Knows: Username and password
+
+  
+Admin 
+Adds new CARS						CARS
+
+Manager
+Prints REPORT						TRANSACTIONS
+
+Car
+Knows: Car ID
+Knows: Car type (small, medium, large, and premium)
+Knows: make, model, year and registration
+Knows: Location
+Knows: Status (available, unavailable, date) 
+Knows: Price per day
+
+
+Bookings
+Knows: CUSTOMER						CUSTOMER
+Knows: CAR							CAR
+
+
+TRANSACTIONS
+Keeps a record of BOOKINGS 							BOOKINGS
+
+
+
