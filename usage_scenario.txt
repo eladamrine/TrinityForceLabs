@@ -1,0 +1,20 @@
+Use Case UC-2: BookCars
+
+Brief Description: After a search, the customer can book the car(s) they want to rent. 
+
+Initating Actor - Customer
+
+Actor's goal - To book car(s) that the customer wants to rent. 
+
+Participating actors - QBEI Insurances, External CC Validator. 
+
+Flow of Events for the Main Success Scenario:
+
+->  1. Customer searches for cars. 
+<-  2. The system displays results.
+->  3. Customer selects a car. 
+<-  4. System prompts customer for personal and payment information. 
+->  5. Customer inputs information. 
+<-  6. System validates information. 
+<-  7. System sends customer a confirmation email. 
+

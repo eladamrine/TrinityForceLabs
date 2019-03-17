@@ -1,0 +1,15 @@
+Actor - Goal - Name
+
+Customer - To search for cars - SearchCars (UC-1)
+Customer - To book cars - BookCars (UC-2)
+Staff - To log in - LogIn (UC-3)
+Staff - To view customer bookings - ViewBookings (UC-6)
+Admin - To log in - LogIn (UC-3)
+Admin - To enter new car information - EnterNewCar (UC-4)
+Manager - To log in - LogIn (UC-3)
+Manager - To generate weekly reports - GenerateReport (UC-5) 
+Database - To provide rental statistics - (UC-5) 
+QBEI Insurances - To provide car insurance - (UC-2) 
+Credit Card Checker - To validate credit card information - (UC-2)
+
+
